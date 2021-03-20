@@ -1,6 +1,6 @@
 # Working code for optimization
 
-Hi there! This is the github containing the working code for my portfolio optimization project. You will see two main code files: the Dashboard file, and the Modelling & Evaluations file.
+Hi there! This is the github containing the working code for my portfolio optimization project. You will see two main code files (.ipynb): the Dashboard file, and the Modelling & Evaluations file.
 
 First, the Dashboard code is the back-end code for the website that I included in my project master article. I include the code here so you can play with it and maybe replicate it if you like. Various features are changeable, and you can find detailed explanations in the Technical model article (https://danghoang-57197.medium.com/the-technical-model-66a47708ee64). You will also find the requirements dashboard.txt file, which outlines the system requirements to run the code. Have fun!
 
